@@ -11,3 +11,6 @@ ${kafkaConfigurationConfiguration.kafka.prefix:-devDarth} -multiEditAddEditTopic
 ${kafkaConfigurationConfiguration.kafka.prefix:-devDarthDarth} -multiEditAddEditTopic.Ready // doesn't work
 
 myNameIsNeil
+
+${-kafkaConfigTest.kafka.prefix:-devDarthDarth} -multiEditAddEditTopic.Ready // doesn't work
+${kafkaRonfigTest.kafka.prefix:-devDarthDarth} -multiEditAddEditTopic.Ready // doesn't work
