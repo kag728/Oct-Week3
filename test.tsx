@@ -4,3 +4,10 @@ ${kafkaConfiguration.kafka.prefix:-devdarth}-myNameIsKatherine.Ready // search f
 
 ${kafkaConfiguration.kafka.prefix:-devdarth}- multiEditAddEditTopic.Ready // works
 ${kafkaConfiguration.kafka.prefix:-devdarth} -multiEditAddEditTopic.Ready // doesn't work
+
+${kafkaConfigurationConfiguration.kafka.prefix:-devdarth} -multiEditAddEditTopic.Ready // doesn't work
+
+${kafkaConfigurationConfiguration.kafka.prefix:-devDarth} -multiEditAddEditTopic.Ready // doesn't work
+${kafkaConfigurationConfiguration.kafka.prefix:-devDarthDarth} -multiEditAddEditTopic.Ready // doesn't work
+
+myNameIsNeil
